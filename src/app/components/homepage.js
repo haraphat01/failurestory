@@ -39,8 +39,8 @@ export default function Homepage() {
         {/* Subscribe to Our Newsletter */}
         <section className="my-12 text-center">
           <h2 className="text-3xl font-bold mb-4">Stay Updated with Failurestory.tech</h2>
-          <p className="text-lg mb-8">Subscribe to our newsletter and receive the latest failure stories, insights, and lessons directly in your inbox. Join our community and learn from the best and worst moments in entrepreneurship.</p>
-          <a href="/subscribe" className="bg-black text-white font-semibold py-2 px-4 rounded-lg hover:bg-gray-800">Subscribe Now</a>
+          <p className="text-lg mb-8">Subscribe to our newsletter and receive the latest failure stories, insights, and lessons directly in your inbox. Join our community and learn from the best and worst moments in entrepreneurship.&apos;</p>
+          <a href="https://failurestory.substack.com/" className="bg-black text-white font-semibold py-2 px-4 rounded-lg hover:bg-gray-800">Subscribe Now</a>
         </section>
 
         {/* Featured Stories */}
@@ -79,7 +79,7 @@ export default function Homepage() {
         <section className="my-12 text-center">
           <h2 className="text-3xl font-bold mb-4">Failurestory.tech</h2>
           <p className="text-lg">Failurestory.tech was founded with the belief that failure is not the end, but a vital part of the journey towards success. Our mission is to build a platform where entrepreneurs can share their failures openly, learn from one another, and ultimately become stronger and more resilient.</p>
-          <p className="text-lg mt-4">Whether you're an aspiring entrepreneur, a seasoned founder, or someone who simply enjoys inspiring stories, we welcome you to join us on this journey. Together, we can transform failures into powerful lessons and drive innovation forward.</p>
+          <p className="text-lg mt-4">Whether you&apos;re an aspiring entrepreneur, a seasoned founder, or someone who simply enjoys inspiring stories, we welcome you to join us on this journey. Together, we can transform failures into powerful lessons and drive innovation forward.</p>
         </section>
       </main>
 
