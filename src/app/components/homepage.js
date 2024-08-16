@@ -32,7 +32,7 @@ export default function Homepage() {
             <li>Join a supportive community of like-minded individuals</li>
           </ul>
           <div className="text-center mt-8">
-            <a href="/submit-story" className="bg-black text-white font-semibold py-2 px-4 rounded-lg hover:bg-gray-800">Submit Your Story</a>
+            <a href="https://forms.gle/5UTNfkisgFio8psm9" className="bg-black text-white font-semibold py-2 px-4 rounded-lg hover:bg-gray-800">Submit Your Story</a>
           </div>
         </section>
 
@@ -49,7 +49,9 @@ export default function Homepage() {
             <h2 className="text-3xl md:text-4xl font-bold">Featured Stories</h2>
             <p className="mt-4">A brief overview of a failed product or project.</p>
 
-            <div className="mt-8 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            <p className="text-3xl md:text-4xl font-bold"> Feature stories will soon be live as we start publishing</p>
+
+            {/* <div className="mt-8 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
               <div className="p-6 bg-gray-100 rounded shadow">
                 <h3 className="text-xl font-semibold">Story Title 1</h3>
                 <p className="mt-4">A brief overview of a failed product or project.</p>
@@ -71,7 +73,7 @@ export default function Homepage() {
                   Read More
                 </Link>
               </div>
-            </div>
+            </div> */}
           </div>
         </section>
 
